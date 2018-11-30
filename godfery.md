@@ -29,6 +29,7 @@
 
 ### 文章发布系统
     开发框架 python的flask框架 + mysql。
+    具体功能有 分类录入，新闻录入，新闻发布等。
 
 ### linux运维
     1 环境安装（lnmp ,tomcat+mysql,redis，mongodb）。
