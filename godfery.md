@@ -47,8 +47,8 @@
 平台主要功能是提供代理注册，登陆，充值和销售钻石。管理后台有数据统计功能。
 
 ### 平台sdk
- 安卓SDK
- IDE Android studio 引入http包，根据API规则调用后端API接口，根据平台功能，提供个性化功能。
+    安卓SDK
+    利用Android studio 引入http包，客户端调用提供的类方法调用后端API接口，同时SDK封装了安卓设备唯一ID等功能。
  
  分别用android object-c  php 实现了sdk，具有登陆支付第三方接入功能，android接的google play 支付，object-c 接的苹果支付。
  比较麻烦的地方，因为sdk 面向全球，各地连接服务器的网络延迟不一样，为了让玩家网速更快，实现了就近提供服务的技术，具体实现原理就是ip选举策略，
