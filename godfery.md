@@ -30,7 +30,7 @@
 ### 文章发布系统
     开发框架 python的flask框架 + mysql。
 
-### 运维
+### linux
     环境安装（lnmp ,tomcat+mysql,redis，mongodb）。
     linux性能监控，监控项目有硬盘，负载，对外服务器接口，发现问题及时报警。
     根据需求不同，grep curl  sed  awk crontab 做不同的工作。
